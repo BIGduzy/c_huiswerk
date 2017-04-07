@@ -1,0 +1,10 @@
+makefile
+.codelite/*
+HU.workspace
+Inlever spull/*
+binary_tree/*
+test/*
+*/Debug
+*.mk
+*.project
+*.txt
